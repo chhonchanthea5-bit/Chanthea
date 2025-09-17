@@ -1,0 +1,5 @@
+{
+  "name": "3D Extruder ",
+  "description": "An AI-powered creative tool that simulates a plugin for After Effects and Premiere Pro. It allows users to add 3D depth to images, generate depth maps, and apply customizable lighting effects using the Gemini API.",
+  "requestFramePermissions": []
+}
